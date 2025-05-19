@@ -1,0 +1,5 @@
+assertpy
+behave==1.2.7.dev6
+jsonpath-ng
+requests==2.32.3
+jsonschema
